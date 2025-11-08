@@ -1,0 +1,256 @@
+2025-11-08 01:53:19 - INFO - 20 productos encontrados
+2025-11-08 01:59:18 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 01:59:19 - INFO - 20 productos encontrados
+2025-11-08 01:59:31 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 01:59:31 - INFO - 20 productos encontrados
+2025-11-08 02:00:05 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:00:06 - INFO - 20 productos encontrados
+2025-11-08 02:07:33 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:07:34 - INFO - 20 productos encontrados
+2025-11-08 02:07:42 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:07:48 - INFO - 1 productos encontrados con rate = 4.8 y id = 10
+2025-11-08 02:08:28 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:08:28 - INFO - 20 productos encontrados
+2025-11-08 02:08:30 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:08:41 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:08:42 - INFO - 20 productos encontrados
+2025-11-08 02:08:44 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:08:46 - INFO - 0 productos encontrados con rate = 4.8 y id = 10
+2025-11-08 02:08:59 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:08:59 - INFO - 20 productos encontrados
+2025-11-08 02:09:01 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:09:47 - INFO - 0 productos encontrados con rate = 4.8 y id = 10
+2025-11-08 02:14:21 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:14:22 - INFO - 20 productos encontrados
+2025-11-08 02:14:25 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:14:29 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:15:36 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:15:36 - INFO - 20 productos encontrados
+2025-11-08 02:15:36 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:15:36 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:15:36 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:15:36 - INFO - Si existe el producto con rate = 4.8, id = 11, categoria = electronics y nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+2025-11-08 02:16:02 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:16:02 - INFO - 20 productos encontrados
+2025-11-08 02:16:02 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:16:02 - INFO - No existe producto con estas caracteristicas: 
+
+rate = 4.8
+id = 10
+categoria = electronics
+nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+2025-11-08 02:17:29 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:17:29 - INFO - 20 productos encontrados
+2025-11-08 02:17:29 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:17:29 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+2025-11-08 02:18:11 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:18:11 - INFO - 20 productos encontrados
+2025-11-08 02:18:11 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:18:14 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:18:14 - INFO - 20 productos encontrados
+2025-11-08 02:18:14 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:18:14 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:18:14 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:18:14 - INFO - Si existe el producto con rate = 4.8, id = 11, categoria = electronics y nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+2025-11-08 02:19:00 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:19:00 - INFO - 20 productos encontrados
+2025-11-08 02:19:00 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:19:00 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:21:11 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:21:12 - INFO - 20 productos encontrados
+2025-11-08 02:21:12 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:21:12 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:21:26 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:21:26 - INFO - 20 productos encontrados
+2025-11-08 02:21:26 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:21:26 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:21:26 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:21:26 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 11
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:22:15 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:22:15 - INFO - 20 productos encontrados
+2025-11-08 02:22:15 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:22:15 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:22:15 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:22:15 - INFO - Si existe el producto con rate = 4.8, id = 11, categoria = electronics y nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+2025-11-08 02:22:36 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:22:36 - INFO - 20 productos encontrados
+2025-11-08 02:22:36 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:22:36 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:22:36 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:22:36 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 11
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:24:09 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:24:10 - INFO - 20 productos encontrados
+2025-11-08 02:24:10 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:24:10 - INFO - 1 productos encontrados con rate = 4.8 y id = 11
+2025-11-08 02:24:10 - INFO - 1 productos encontrados con rate = 4.8, id = 11 y categoria = electronics
+2025-11-08 02:24:10 - INFO - Si existe el producto con rate = 4.8, id = 11, categoria = electronics y nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:36:32 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:36:32 - INFO - 20 productos encontrados
+2025-11-08 02:36:32 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:36:32 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:36:32 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:36:33 - INFO - 20 productos encontrados
+2025-11-08 02:37:14 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:37:15 - INFO - 20 productos encontrados
+2025-11-08 02:37:15 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:37:15 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:37:15 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:37:21 - INFO - 20 productos encontrados
+2025-11-08 02:37:55 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:37:55 - INFO - 20 productos encontrados
+2025-11-08 02:37:55 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:37:55 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:37:55 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:37:55 - INFO - 20 productos encontrados
+2025-11-08 02:37:55 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:37:55 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:38:40 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:38:40 - INFO - 20 productos encontrados
+2025-11-08 02:38:40 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:38:40 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:38:40 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:38:40 - INFO - 20 productos encontrados
+2025-11-08 02:38:40 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:38:40 - INFO - No existe producto de categoria = electronics & id = 54
+2025-11-08 02:44:19 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:44:19 - INFO - 20 productos encontrados
+2025-11-08 02:44:19 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:44:19 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:44:19 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:44:19 - INFO - 20 productos encontrados
+2025-11-08 02:44:19 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:44:19 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:44:19 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:44:35 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:44:35 - INFO - 20 productos encontrados
+2025-11-08 02:44:35 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:44:35 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:44:35 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:44:40 - INFO - 20 productos encontrados
+2025-11-08 02:44:40 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:44:40 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:44:43 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:44:47 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:44:47 - INFO - 20 productos encontrados
+2025-11-08 02:44:47 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:44:47 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:44:47 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:44:47 - INFO - 20 productos encontrados
+2025-11-08 02:44:47 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:44:47 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:44:49 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:45:14 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:45:14 - INFO - 20 productos encontrados
+2025-11-08 02:45:14 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:45:14 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:45:14 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:45:15 - INFO - 20 productos encontrados
+2025-11-08 02:45:15 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:45:15 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:45:15 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:45:15 - INFO - 3 productos encontrados
+2025-11-08 02:45:15 - INFO - [{'id': 9, 'title': 'WD 2TB Elements Portable External Hard Drive - USB 3.0 ', 'price': 64, 'description': 'USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system', 'category': 'electronics', 'image': 'https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png', 'rating': {'rate': 3.3, 'count': 203}}, {'id': 10, 'title': 'SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s', 'price': 109, 'description': 'Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)', 'category': 'electronics', 'image': 'https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png', 'rating': {'rate': 2.9, 'count': 470}}, {'id': 11, 'title': 'Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5', 'price': 109, 'description': '3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.', 'category': 'electronics', 'image': 'https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png', 'rating': {'rate': 4.8, 'count': 319}}]
+2025-11-08 02:46:22 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:46:22 - INFO - 20 productos encontrados
+2025-11-08 02:46:22 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:46:22 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:46:22 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:46:22 - INFO - 20 productos encontrados
+2025-11-08 02:46:22 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:46:22 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:46:22 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:46:22 - INFO - 3 productos maximo a mostrar
+2025-11-08 02:50:32 - INFO - --------------PREGUNTA 1--------------
+2025-11-08 02:50:33 - INFO - 20 productos encontrados
+2025-11-08 02:50:33 - INFO - 2 productos encontrados con rate = 4.8
+2025-11-08 02:50:33 - INFO - No existe producto con estas caracteristicas: 
+	rate = 4.8
+	id = 10
+	categoria = electronics
+	nombre = Silicon Power 256GB SSD 3D NAND A55 SLC Cache performance Boost SATA III 2.5
+2025-11-08 02:50:33 - INFO - --------------PREGUNTA 2--------------
+2025-11-08 02:50:33 - INFO - 20 productos encontrados
+2025-11-08 02:50:33 - INFO - 6 productos encontrados con categoria = electronics
+2025-11-08 02:50:33 - INFO - 1 productos encontrados con categoria = electronics y id 10
+2025-11-08 02:50:33 - INFO - --------------PREGUNTA 3--------------
+2025-11-08 02:50:33 - INFO - 3 productos maximo a mostrar
+2025-11-08 02:50:33 - INFO - Producto 1:
+2025-11-08 02:50:33 - INFO - 	id = 9
+	titulo = WD 2TB Elements Portable External Hard Drive - USB 3.0 
+	precio = 64
+	descripcion = USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system
+	categoria = electronics
+	imagen = https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png
+	rating = {'rate': 3.3, 'count': 203}
+2025-11-08 02:50:33 - INFO - Producto 2:
+2025-11-08 02:50:33 - INFO - 	id = 10
+	titulo = SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s
+	precio = 109
+	descripcion = Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)
+	categoria = electronics
+	imagen = https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png
+	rating = {'rate': 2.9, 'count': 470}
+2025-11-08 02:50:33 - INFO - Producto 3:
+2025-11-08 02:50:33 - INFO - 	id = 11
+	titulo = Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5
+	precio = 109
+	descripcion = 3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.
+	categoria = electronics
+	imagen = https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png
+	rating = {'rate': 4.8, 'count': 319}
