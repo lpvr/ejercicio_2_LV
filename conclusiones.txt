@@ -1,0 +1,9 @@
+* En Python con la libreria requests y lógica de manejo de diccionarios Python es suficiente
+para resolver lo que el ejercicio solicita, es muy sencillo la validación de claves y valores en
+diccionarios Python.
+
+* Los métodos usados son GET, esto hace también sencillo el llamado a las APIs, en casos más complejos de
+servicios con credenciales de acceso o generaciones de tokens, o métodos POST con cabeceras complejas pueden
+ser necesarias herramientas específicas para pruebas de APIs.
+
+* La solución genera reportes con fecha y hora de ejecución para fines de auditoría.
